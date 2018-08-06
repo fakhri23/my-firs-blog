@@ -1,0 +1,2 @@
+/dev/stdin:           ERROR: cannot read `/dev/stdin' (Input/output error)
+settings.py: cannot open `settings.py' (No such file or directory)
